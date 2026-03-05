@@ -33,6 +33,8 @@ We do not use your data for advertising.
 
 - Relationship reminder text and photos are stored locally on your device.
 - Live status signals are exchanged between your paired watch and iPhone using Apple WatchConnectivity.
+- Physiological signals used for analysis (such as heart rate and HRV) are processed locally on your device.
+- All physiological data used for analysis remains on the user’s device and is not transmitted to external servers.
 - We do not sell personal data.
 - We do not share HealthKit data with third parties for marketing.
 
@@ -72,4 +74,4 @@ The “Last updated” date will indicate the latest version.
 
 ## 10. Contact
 
-Contact email: YOUR_EMAIL_HERE
+Contact email: ozdemirtradesolutions@gmail.com
