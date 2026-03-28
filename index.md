@@ -1,9 +1,9 @@
-# Privacy Policy for Bright Head
+# Privacy Policy for CoolHead
 
 Last updated: March 28, 2026
 
-Bright Head ("we", "our", "the app") provides wellness support and trigger-regulation guidance.
-Bright Head is not a medical device and does not provide diagnosis or treatment.
+CoolHead ("we", "our", "the app") provides wellness support and trigger-regulation guidance.
+CoolHead is not a medical device and does not provide diagnosis or treatment.
 
 ## 1. Data We Access
 
@@ -47,7 +47,7 @@ We do not use your data for advertising.
 - We do not share HealthKit data with third parties for marketing.
 
 ## 4. Health and Safety Notice
-Bright Head is intended for general wellness support only.
+CoolHead is intended for general wellness support only.
 It is not intended to diagnose, treat, cure, or prevent any disease or medical condition.
 If you feel unwell or have concerning symptoms, contact a qualified healthcare professional.
 
@@ -61,7 +61,7 @@ You may deny or revoke permissions at any time in iOS/watchOS settings:
 Some features may not work without required permissions.
 
 ## 6. Children
-Bright Head is not directed to children under 13.
+CoolHead is not directed to children under 13.
 If you believe a child has provided personal information, contact us to request deletion.
 
 ## 7. Data Retention
