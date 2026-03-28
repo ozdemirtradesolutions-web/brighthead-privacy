@@ -15,7 +15,7 @@ If you grant permission, the app may access:
 
 ### User-Provided Content
 If you use Relationship Reminders, the app stores:
-- Text captions you enter
+- Text captions you entered
 - Photos you select
 
 ### Onboarding Answers
