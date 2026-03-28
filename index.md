@@ -15,7 +15,7 @@ If you grant permission, the app may access:
 
 ### User-Provided Content
 If you use Relationship Reminders, the app stores:
-- Text captions you entered
+- Text captions you enter
 - Photos you select
 
 ### Onboarding Answers
@@ -28,12 +28,18 @@ We do not collect your card or payment credentials directly.
 ### Support Form (Optional)
 If you open Help & Feedback, a support form is loaded from Tally (`tally.so`).
 
+### Anonymous Usage Analytics
+We use Mixpanel to collect anonymous usage analytics such as which features are used, session activity, subscription events, and general onboarding preferences (for example, which category of trigger context or desired outcome you selected — but not free-text input).
+This data does not include health information, personal identifiers, or any data that can be used to identify you.
+No HealthKit data is sent to Mixpanel or any analytics service.
+
 ## 2. How We Use Data
 We use data to:
 - Estimate trigger state in real time
 - Show calming tools and guidance
 - Display and sync live status between paired Apple Watch and iPhone
 - Manage subscription entitlement status
+- Improve the app through anonymous usage analytics
 
 We do not use your data for advertising.
 
@@ -43,8 +49,9 @@ We do not use your data for advertising.
 - Trigger-detection physiological signals (such as heart-rate signals used by the app) are processed on-device.
 - Physiological data used for trigger analysis is not sent to external servers by the app.
 - Live status signals are exchanged between paired watch and phone using Apple WatchConnectivity.
+- Anonymous usage analytics are sent to Mixpanel. This data cannot identify you and does not include health information.
 - We do not sell personal data.
-- We do not share HealthKit data with third parties for marketing.
+- We do not share HealthKit data with third parties for marketing or analytics.
 
 ## 4. Health and Safety Notice
 CoolHead is intended for general wellness support only.
